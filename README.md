@@ -2,6 +2,7 @@
 Setting debugging options for ask / Windows / depend on apkmanager 
 <br />
 <br />
+<br />
 
 ## Setting Path
 ### 1. SetApk.cmd
@@ -22,9 +23,9 @@ path : apk_manager7.3/other/dex2jar-2.0/
 `
 <br />
 <br />
+<br />
 
-
-## Usage
+## Option Introduction
 ### 0. Set current project
 place-apk-here-for-modding 폴더에서 작업할 apk를 선택합니다. 
 
