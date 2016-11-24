@@ -1,7 +1,7 @@
 # SetDebugOptApk
 Setting debugging options for ask / Windows / depend on apkmanager 
-
-
+<br />
+<br />
 
 ## Setting Path
 ### 1. SetApk.cmd
@@ -20,7 +20,8 @@ install url : [https://sourceforge.net/projects/dex2jar/](https://sourceforge.ne
 `
 path : apk_manager7.3/other/dex2jar-2.0/
 `
-
+<br />
+<br />
 
 
 ## Usage
