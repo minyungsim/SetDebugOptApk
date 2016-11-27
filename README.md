@@ -1,29 +1,13 @@
 # SetDebugOptApk
-Setting debugging options for ask / Windows / depend on apkmanager 
+Setting debugging options for apk 
+OS : Windows 10
 <br />
 <br />
 <br />
 
-## Setting Path
-### 1. SetApk.cmd
-`
-path : apk_manager7.3/SetApk.cmd
-`
-
-### 2. setApk.exe
-`
-path : apk_manager7.3/other/setApk.exe
-`
-
-### 3. dex2jar-2.0 folder
-install url : [https://sourceforge.net/projects/dex2jar/](https://sourceforge.net/projects/dex2jar/)
-
-`
-path : apk_manager7.3/other/dex2jar-2.0/
-`
-<br />
-<br />
-<br />
+## How to use
+apk 디버깅을 원할 시 : 0 -> 1 -> 2 -> 3 -> 7
+jar 파일이 필요할 때 : 0 -> 1 -> 8
 
 ## Option Introduction
 ### 0. Set current project
@@ -62,3 +46,8 @@ place-apk-here-for-modding 폴더에 apk를 두고 압축을 풉니다.
 
 같은 경로에 생성됩니다.
 
+<br />
+<br />
+
+## Thanks to 
+apkmanager(웃음투자) : [blog](http://blog.naver.com/PostView.nhn?blogId=softdx&logNo=220791587177&categoryNo=27&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
