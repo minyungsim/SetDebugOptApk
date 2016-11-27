@@ -7,6 +7,7 @@ OS : Windows 10
 
 ## How to use
 apk 디버깅을 원할 시 : 0 -> 1 -> 2 -> 3 -> 7
+<br />
 jar 파일이 필요할 때 : 0 -> 1 -> 8
 
 ## Option Introduction
